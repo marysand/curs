@@ -1,0 +1,27 @@
+{
+  "name": "Curs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Maria",
+    "email": "andreeva.maria.s@gmail.com",
+    "url": "https://hackmap.tech"
+  },
+  "homepage": "https://hackmap.tech/package",
+  "private": true,
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
