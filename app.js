@@ -5,10 +5,15 @@ const app = express()
 
 app.use(express.static(__dirname + '/public'));
 
-
 app.get("/", function(req, res) {
-    res.render("page11360025.html");
+  console.log("Something was catched!" + req.method);
+  res.sendFile('public/index.html', {root: __dirname });
 });
+
+
+/*app.get("/", function(req, res) {
+    res.render("page11360025.html");
+});*/
 
 app.listen(8000, () => console.log('Server ready'))
 
