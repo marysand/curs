@@ -1,35 +1,33 @@
-/*const express = require('express')
+const express = require('express')
 const app = express()
-const mainpage_path = ('/Users/mashenka/Documents/Curs/view/page11360025.html')
-//const mainpage = require('./page11360025')
+//var bodyParser = require('body-parser');
+
+
+app.use(express.static(__dirname + '/public'));
+
+
+app.get("/", function(req, res) {
+    res.render("page11360025.html");
+});
+
+app.listen(8000, () => console.log('Server ready'))
 
 
 
-app.get('/', (req, res) => {
-  res.send('Hi!')
-})
 
-app.listen(3000, () => console.log('Server ready'))*/
+/*var express = require('express');
+var bodyParser = require('body-parser');
+
+var app = express();
+
+app.set('port', (process.env.PORT || 8000));
+app.use(express.static(__dirname + '/public'));
+app.set('public', __dirname + '/public');
 
 
-const https = require('https')
-const options = {
-  hostname: 'www.hackmap.tech',
-  port: 443,
-  path: '/todos',
-  method: 'GET'
-}
+app.get('/', function(req, res){
+    res.render('page11360025.html');
+});
 
-const req = https.request(options, res => {
-  console.log(`statusCode: ${res.statusCode}`)
-
-  res.on('data', d => {
-    process.stdout.write(d)
-  })
-})
-
-req.on('error', error => {
-  console.error(error)
-})
-
-req.end()
+app.listen(app.get('port'), function() {
+});*/
