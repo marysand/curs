@@ -15,7 +15,7 @@ app.get("/", function(req, res) {
     res.render("page11360025.html");
 });*/
 
-app.listen(8000, () => console.log('Server ready'))
+app.listen(8000)
 
 
 
