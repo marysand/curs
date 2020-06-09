@@ -2,46 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	<url>
 		<loc>http://hackmap.tech/</loc>
-		<lastmod>2020-05-26T15:29:29+00:00</lastmod>
+		<lastmod>2020-06-02T17:50:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://hackmap.tech/page11361023.html</loc>
-		<lastmod>2020-05-26T15:29:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>http://hackmap.tech/page11385898.html</loc>
-		<lastmod>2020-05-26T15:29:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>http://hackmap.tech/page11408879.html</loc>
-		<lastmod>2020-05-26T15:29:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>http://hackmap.tech/page11416202.html</loc>
-		<lastmod>2020-05-26T15:29:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>http://hackmap.tech/page11415417.html</loc>
-		<lastmod>2020-05-26T15:29:29+00:00</lastmod>
-	</url>
-	<url>
-		<loc>http://hackmap.tech/page11415502.html</loc>
-		<lastmod>2020-05-26T15:29:29+00:00</lastmod>
+		<loc>http://hackmap.tech/page11727243.html</loc>
+		<lastmod>2020-06-02T17:50:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>http://hackmap.tech/page11416657.html</loc>
-		<lastmod>2020-05-26T15:29:29+00:00</lastmod>
+		<lastmod>2020-06-02T17:50:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://hackmap.tech/page11417644.html</loc>
-		<lastmod>2020-05-26T15:29:29+00:00</lastmod>
+		<loc>http://hackmap.tech/page11415502.html</loc>
+		<lastmod>2020-06-02T17:50:56+00:00</lastmod>
 	</url>
 	<url>
 		<loc>http://hackmap.tech/page11418275.html</loc>
-		<lastmod>2020-05-26T15:29:30+00:00</lastmod>
+		<lastmod>2020-06-02T17:50:56+00:00</lastmod>
 	</url>
 	<url>
-		<loc>http://hackmap.tech/page11418602.html</loc>
-		<lastmod>2020-05-26T15:29:30+00:00</lastmod>
+		<loc>http://hackmap.tech/page11385898.html</loc>
+		<lastmod>2020-06-02T17:50:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://hackmap.tech/page11416202.html</loc>
+		<lastmod>2020-06-02T17:50:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://hackmap.tech/page11361023.html</loc>
+		<lastmod>2020-06-02T17:50:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://hackmap.tech/page11417644.html</loc>
+		<lastmod>2020-06-02T17:50:57+00:00</lastmod>
 	</url>
 </urlset>
